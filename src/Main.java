@@ -38,5 +38,9 @@ public class Main {
         System.out.println(num1);
 
         System.out.println(7<5);
+
+        Calculator.Calc.ScientificCalc calc = new Calculator.Calc.ScientificCalc();
+        calc.AddNumber(3,4);
+        
     }
 }

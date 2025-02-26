@@ -34,6 +34,12 @@ class Human{
     }
 }
 
+
+
+// Naming Convention -: Class & Interfaces -: Capital , Methods -: Small Ex-: marks(),show()
+// Constant -: All Capital
+// Makes the Function Name in Camel Cases -: showMyMarks(){}
+
 public class Static {
 
     public static void main(String[] args){
